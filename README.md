@@ -12,4 +12,4 @@ This Repo will serve as the home for all my workshops and sessions I am deliveri
 I will be creating folders for the bulletted points above. Where necessary I may create a Github GIST and if i do i will call it out. 
 
 # Feedback and Comments
-If you have feedback or comments please let me know via twitter @fabianwilliams(https://www.twitter.com/fabianwilliams) 
+If you have feedback or comments please let me know via twitter [@fabianwilliams](https://www.twitter.com/fabianwilliams) or send me an email at [fabian@adotob.com](mailto:fabian@adotob.com?Subject=SPFestDC2018%20%Question)
