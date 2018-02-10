@@ -1,0 +1,74 @@
+[
+    {
+      "id": "1",
+      "firstname": "Bobby",
+      "lastname": "Chang",
+      "defaultPic" : "https://sharepointfest.com/DC/images/speaker/BOBBY_CHANG.jpg",
+      "twitterHandle": "@bobbychang",
+      "creds": {
+        "speakercategory": "Microsoft Speaker",
+        "certs": "MCT PMP",
+        "title": "Collaboration TSP"
+      },
+      "bio": "Bobby is a Collaboration TSP with Microsoft in the DC metropolitan area. He works with federal agencies to help identify opportunities and leverage business solutions in the cloud. Bobby is a Microsoft Certified Trainer who specializes in end user empowerment and productivity. As an avid fan of the community, he can be found frequently in conferences, user groups, SharePoint Saturdays, or meetups.",
+      "sessions": [{
+        "number": "PWR103",
+        "title": "Power Up SharePoint with PowerApps",
+        "link": "https://sharepointfest.com/DC/index.php/sessions/conference-sessions/40-power-user/259-pwr-103-power-up-sharepoint-with-powerapps",
+        "description":"Watch a live demo of SharePoint form and mobile app development using PowerApps. This session (much like PowerApps) is aimed for Power Users and Information Workers. See how you could easily interact with data from SharePoint Server On-Premises or SharePoint Online in Office 365 and deliver business-driven applications using little to no code.The session will demonstrate what it takes to develop  with PowerApps and what your organization would need to get started."
+    },
+    {
+        "number": "ECM 201",
+        "title": "Sharing is Caring? File Sharing Overview in Office 365",
+        "link": "https://sharepointfest.com/DC/index.php/sessions/conference-sessions/38-ecm/167-ecm-201-sharing-is-caring-file-sharing-overview-in-office-365",
+        "description":"Office 365 has been releasing many file sharing features that make it easy to share content in and out of your organization. This session will showcase how you could quickly share files in SharePoint Online or OneDrive for Business with colleagues, partners, or clients. See how these features provides the convenience for your end users and removes collaboration barriers."
+    }],
+        "status" : "Confirmed"
+    },
+    {
+        "id": "2",
+        "firstname": "Brian",
+        "lastname": "Levenson",
+        "defaultPic" : "https://sharepointfest.com/DC/images/speaker/Brian_Levenson_photo.jpg",
+        "twitterHandle": "",
+        "creds": {
+          "speakercategory": "Microsoft Speaker",
+          "certs": "",
+          "title": "Microsoft 365 US Government Product Manager"
+        },
+        "bio": "Brian Levenson started in the technology world as the child of a software engineering growing up in Silicon Valley. Since testing computer games as a four year old, Brian has managed a university help desk, helped enterprises and governments deploy and use software solutions, and supported early cloud adopters through BPOS, Office 365, and now Microsoft 365.",
+        "sessions": [{
+          "number": "KEY100",
+          "title": "Microsoft’s Vision for a Modern Workplace",
+          "link": "https://sharepointfest.com/DC/index.php/sessions/conference-sessions/55-keynotes/360-key-100-microsoft-s-vision-for-a-modern-workplace",
+          "description":"Microsoft is on a mission to help organizations modernize. Government and enterprises need to upgrade legacy infrastructure while reducing costs and shrinking data center footprints. Using cloud based collaboration services and productivity applications, you can enable seamless communication and let users work the ways that they want in the cloud or in a hybrid environment – without sacrificing security! Join Microsoft 365 for US Government product manager, Brian Levenson, for a journey through Microsoft’s vision."
+      }],
+          "status" : "Confirmed"
+      },
+      {
+        "id": "3",
+        "firstname": "Brian",
+        "lastname": "Alderman",
+        "defaultPic" : "https://sharepointfest.com/DC/images/speaker/BrianAlderman80.jpg",
+        "twitterHandle": "@brianalderman",
+        "creds": {
+          "speakercategory": "Featured Speaker",
+          "certs": "MVP MCT",
+          "title": "Senior Technical Instructor"
+        },
+        "bio": "Brian Alderman is a Microsoft MVP, and since 1995, he has held several Microsoft certifications that currently include; MCT, MCSE for SharePoint, MCSA for Office 365, MCITP for SQL Server(R), MCSA and MCSE for Windows Server(R), and also his PMP certification. As a Senior Technical Instructor and Consultant he has 30 years of experience in networking, SQL Server databases, SharePoint technologies, and project management. Brian's publications include Windows 2000 Professional, SQL Server 2000 Administration, SharePoint 2010 Administrator's Companion and Microsoft SharePoint 2013 Administration Inside Out. He is an active speaker at SharePoint Industry conferences including SharePoint Saturday's, SPLive, DevIntersection, SharePoint Fest, Microsoft Ignite and several international SharePoint conferences including London, Milan, and Madrid. Brian has a BS and MS in Computer Information Systems where he graduated summa cum laude from Regis University of Colorado Springs and now lives in Scottsdale, AZ where he enjoys playing golf year round and traveling around the world.",
+        "sessions": [{
+          "number": "ADM 103",
+          "title": "Managing Data Recovery in SharePoint",
+          "link": "https://sharepointfest.com/DC/index.php/sessions/conference-sessions/34-admin/217-adm-103-managing-data-recovery-in-sharepoint",
+          "description":"SharePoint Server includes several content recovery options for SharePoint administrators, site collection administrators, and end users. Educating your users, and site collections and lighten the burden on your SharePoint farm administrators. This discussion will introduce the Best Practices framework that will allow your SharePoint administrator to configure SharePoint and SQL Server for quick content recovery minimizing the downtime and providing shorter yet achievable Service Level Agreements (SLA’s)."
+      },
+      {
+        "number": "ADM 204",
+        "title": "Integrating Office Online with SharePoint",
+        "link": "https://sharepointfest.com/DC/index.php/sessions/conference-sessions/34-admin/223-adm-204-integrating-office-online-with-sharepoint",
+        "description":"Microsoft Office Online Server (OOS), formerly known as Office Web Applications (OWA), is documented as an optional SharePoint component, but in reality, it is a requirement to take full advantage of SharePoint's new features. Office Online Server provides a powerful punch to SharePoint by providing Excel Services, Search results document preview, Business Intelligence features, and the use of Durable Links functionality introduced in SharePoint Server 2016"
+      }],
+          "status" : "Confirmed"
+      }
+    ]
