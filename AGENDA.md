@@ -23,7 +23,7 @@ This workshop is set for 3.5 hours.  Lecture and Lab will be for 3 hours with a 
 - We will begin by getting everyone educated on the Value Prop of Xamarin. What problem does it solve, how does knowing Xamarin help you!
 - I will do a Demo of a Simple App originating in the Azure Potal and Demoed on a iOS and Android Platform
 - Optional: Attendees with Laptop & Envioronment may do Lab 1, and/or we do it together
-- I will do a Demo of a Customized App based on Speakers at the Conference & their [sessions] (https://github.com/fabianwilliams/SPFestDC2018/blob/master/ws301/spfestdc2018spkrs.json)
+- I will do a Demo of a Customized App based on Speakers at the Conference & their [sessions](https://github.com/fabianwilliams/SPFestDC2018/blob/master/ws301/spfestdc2018spkrs.json)
 - Optional: Attendees with Laptop & Envirionment may do Lab 2 and/or we do it together
 - Open Forum, Q&A
 
