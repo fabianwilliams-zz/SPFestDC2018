@@ -1,0 +1,12 @@
+﻿<Properties StartupConfiguration="{A0DC3180-DACC-4E75-BF30-7A67A861BB5B}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.spfestdc2018.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A217926F-83EC-434D-9539-52E62374FBD5">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.spfestdc2018.iOS>
+  <MultiItemStartupConfigurations />
+</Properties>
