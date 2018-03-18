@@ -1,5 +1,5 @@
 # SP Fest Workshop
-# Presenter: Fabian G. Williams @fabianwilliams
+# Presenter: Fabian G. Williams [@fabianwilliams](https://www.twitter.com/fabianwilliams)
 # Title: WS 301 - Get Mobile with Azure NoSQL DB and Xamarin
 
 In this 1/2 day workshop we will begin with framing a discussion about the flexibility of having a Database this Schema Free [Schema Less] in the face of shifting priorities or adjusting to market demands through Azure Cognos DB (using DocumentDb Database API), we will then see the tooling that is available to us to use C# Skills through Xamarin.Forms to quickly and effectively create a real world (not the Todo Sample App :-) ) mobile application from ideation to fully fledged working apps for both Android and iOS.
