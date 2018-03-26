@@ -31,4 +31,5 @@ This workshop is set for 3.5 hours.  Lecture and Lab will be for 3 hours with a 
 - 
 
 ## Lab 2
-- 
+- Create your JSON NoSQL Schema for your Data Object hint use [JSON2C#](http://json2csharp.com) once you have your schema defined or vice/versa
+

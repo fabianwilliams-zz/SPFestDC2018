@@ -1,5 +1,9 @@
 ﻿<Properties StartupConfiguration="{A0DC3180-DACC-4E75-BF30-7A67A861BB5B}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="spfestdc2018/Model/SpFestSpeakerNSessions.cs">
+    <Files>
+      <File FileName="spfestdc2018/Model/SpFestSpeakerNSessions.cs" Line="38" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
