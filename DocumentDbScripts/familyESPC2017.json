@@ -1,0 +1,41 @@
+{
+    "id": "ESPC2017Family",
+    "country": "Ireland",
+	"parents": [
+		{ "familyName": "McGregor", "givenName": "Dublin" },
+		{ "familyName": "McGregor", "givenName": "EuropeanSPC" }
+	],
+	"children": [
+		{
+			"familyName": "McGregor",
+			"givenName": "Conor",
+			"gender": "male",
+			"grade": 15,
+			"pets": [
+				{ "givenName": "Hugo", "type": "Dog" },
+                { "givenName": "Benjamin", "type": "Dog" },
+                { "givenName": "Donald", "type": "Duck" }
+			]
+		},
+		{
+			"familyName": "OConnor",
+			"givenName": "Sinead",
+			"gender": "female",
+			"grade": 25,
+			"pets": [
+				{ "givenName": "Yorkie", "type": "Cat" }
+			]
+		},
+        {
+			"familyName": "Murphy",
+			"givenName": "Cillian",
+			"gender": "male",
+			"grade": 17,
+			"pets": [
+				{ "givenName": "Spinee", "type": "Dog" }
+			]
+		}
+	],
+	"location": { "state": "Ireland", "county": "Crumlin", "city": "Dublin" },
+	"isRegistered": false
+}

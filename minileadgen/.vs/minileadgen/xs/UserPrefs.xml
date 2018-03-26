@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{48F334D0-E756-4C8B-8F49-E8338E1B0A7F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="minileadgen.core/Helpers/LeadManager.cs">
+    <Files>
+      <File FileName="minileadgen.core/Helpers/LeadManager.cs" Line="21" Column="125" />
+      <File FileName="minileadgen.core/Models/Lead.cs" Line="54" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.minileadgen.core.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.949DBBFF-A80F-4A5F-8D59-5E90AF852325">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.minileadgen.core.iOS>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.minileadgen.core.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+</Properties>

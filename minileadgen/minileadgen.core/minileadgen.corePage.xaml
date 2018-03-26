@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage 
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    xmlns:local="clr-namespace:minileadgen.core" 
+    x:Class="minileadgen.core.minileadgen_corePage">
+	<Grid RowSpacing="0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+                <ActivityIndicator Grid.RowSpan="2"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center"
+                       IsVisible="False"
+                       IsEnabled="True"
+                       x:Name="syncIndicator"/>
+        <StackLayout Grid.Row="0" BackgroundColor="Yellow" Padding="10,30,10,5">
+            <Label TextColor="#555555" Text="SPFest 2018 Leads Demo" />
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                  <Entry x:Name="newCountryName"
+                  Placeholder="Country Name" />
+                    <StackLayout x:Name="addrtypePanel" Grid.Column="1" Orientation="Horizontal" HorizontalOptions="StartAndExpand">
+                    <Entry x:Name="newAddrType"
+                  Placeholder="Bussiness/Home" />
+                </StackLayout>
+            </Grid>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                    <Entry x:Name="newStreetNum"
+                  Placeholder="Street Number" />
+                    <StackLayout x:Name="addrnamePanel" Grid.Column="1" Orientation="Horizontal" HorizontalOptions="StartAndExpand">
+                     <Entry x:Name="newAddressName"
+                  Placeholder="Street Address" />
+                </StackLayout>
+            </Grid>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                    <Entry x:Name="newCity"
+                  Placeholder="City Name" />
+                    <StackLayout x:Name="aptPanel" Grid.Column="1" Orientation="Horizontal" HorizontalOptions="StartAndExpand">
+                   <Entry x:Name="newApt"
+                  Placeholder="AptNum" />
+                </StackLayout>
+            </Grid>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                  <Entry x:Name="newFirstName"
+                  Placeholder="First Name" />
+                    <StackLayout x:Name="lnamePanel" Grid.Column="1" Orientation="Horizontal" HorizontalOptions="StartAndExpand">
+                  <Entry x:Name="newLastName"
+                  Placeholder="Last Name" />
+                </StackLayout>
+            </Grid>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                  <Entry x:Name="newContactPhone"
+                  Placeholder="Phone Num" />
+                    <StackLayout x:Name="emailPanel" Grid.Column="1" Orientation="Horizontal" HorizontalOptions="StartAndExpand">
+                  <Entry x:Name="newContactEmail"
+                  Placeholder="Email" />
+                </StackLayout>
+            </Grid>
+             <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                  <Entry x:Name="newInterest"
+                  Placeholder="Interest" />
+                    <StackLayout x:Name="addmePanel" Grid.Column="1" Orientation="Horizontal" HorizontalOptions="StartAndExpand">
+                  <Entry x:Name="newSourceName"
+                  Placeholder="Source of Lead" />
+                </StackLayout>
+            </Grid>
+                <Button Text="AddMe" MinimumHeightRequest="30"
+          Clicked="OnAdd" />
+        </StackLayout>
+        <ListView x:Name="leadsList"
+                            ItemSelected="OnSelected"
+                            IsPullToRefreshEnabled="true" Refreshing="OnRefresh"
+                            Grid.Row="1">
+             <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ViewCell.ContextActions>
+                            <MenuItem Clicked="OnComplete" Text="Complete" CommandParameter="{Binding .}"/>
+                        </ViewCell.ContextActions>
+                        <StackLayout HorizontalOptions="StartAndExpand" Orientation="Horizontal" Padding="15,5,0,0">
+                            <StackLayout Padding="5,0,0,0" VerticalOptions="StartAndExpand" Orientation="Vertical">
+                                <Label Text="{Binding Name.firstname}"  />
+                            </StackLayout>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>    
+        </ListView>
+    </Grid>
+</ContentPage>

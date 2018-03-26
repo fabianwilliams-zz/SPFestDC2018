@@ -1,0 +1,25 @@
+{
+    "id": "WilliamsFamily",
+    "country": "USA",
+	"lastName": "Williams",
+	"parents": [
+		{ "firstName": "Fabian", "relationship":  "father" },
+		{ "firstName": "Mariam", "relationship":  "mother" }
+	],
+	"children": [
+		{
+			"firstName": "Gabby",
+			"gender": "female",
+			"grade": 10,
+			"pets": [ { "givenName": "Tico", "type":  "Dog" } ]
+		},
+        {
+			"firstName": "Jada",
+			"gender": "female",
+			"grade": 3,
+			"pets": [ { "givenName": "Alice", "type":  "Dog" } ]
+		}
+	],
+	"location": { "state": "MD", "county": "Howard", "city": "Laurel" },
+	"isRegistered": true
+}
