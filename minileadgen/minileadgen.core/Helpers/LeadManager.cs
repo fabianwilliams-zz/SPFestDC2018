@@ -15,10 +15,8 @@ namespace minileadgen.core.Helpers
     {
          static LeadManager defaultInstance = new LeadManager();
 
-        //const string accountURL = @"https://fabian.documents.azure.com:443/";
-        //const string accountKey = @"bvDULSic0MDonThDyBLE24ZlK5ATM5MXmFiZ20IwVsriaYUtlBK15GD2KfYC0ty0I6xJtPCd7F1DJd8hKfBduA=="; //  ALWAY ALWAY REMEMBER TO PUT THE KEY BACK. AND REMOVE BEFORE COMITTING TO PUBLIC GITHUB
-        const string accountURL = @"https://fabsforswift1.documents.azure.com:443/";
-        const string accountKey = @"iOGEnzlSQ1IoNvtHrQPS3DFF92GBvqlXYAlPBYujkGfzKIO49XtC6GsMFoCSp9w35DZ4yc2ccoYRBOjIqsnWxg=="; //  ALWAY ALWAY REMEMBER TO PUT THE KEY BACK. AND REMOVE BEFORE COMITTING TO PUBLIC GITHU
+        const string accountURL = @"https://functionappnamehere.documents.azure.com:443/";
+        const string accountKey = @"put your key here"; //  ALWAY ALWAY REMEMBER TO PUT THE KEY BACK. AND REMOVE BEFORE COMITTING TO PUBLIC GITHU
         const string databaseId = @"fabsalpha";
         const string collectionId = @"Leads";
 

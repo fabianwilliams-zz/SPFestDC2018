@@ -6,3 +6,11 @@
 /Users/fabianw/1mycode/espc2017public/espc2017/minileadgen/minileadgen.core/obj/Debug/minileadgen.core.minileadgen.corePage.xaml.g.cs
 /Users/fabianw/1mycode/espc2017public/espc2017/minileadgen/minileadgen.core/obj/Debug/minileadgen.core.dll
 /Users/fabianw/1mycode/espc2017public/espc2017/minileadgen/minileadgen.core/obj/Debug/minileadgen.core.pdb
+/Users/fwilliams/1fabmvpcode/SPFestDC2018/minileadgen/minileadgen.core/bin/Debug/minileadgen.core.dll
+/Users/fwilliams/1fabmvpcode/SPFestDC2018/minileadgen/minileadgen.core/bin/Debug/minileadgen.core.pdb
+/Users/fwilliams/1fabmvpcode/SPFestDC2018/minileadgen/minileadgen.core/obj/Debug/minileadgen.core.csprojResolveAssemblyReference.cache
+/Users/fwilliams/1fabmvpcode/SPFestDC2018/minileadgen/minileadgen.core/obj/Debug/minileadgen.core.csproj.CoreCompileInputs.cache
+/Users/fwilliams/1fabmvpcode/SPFestDC2018/minileadgen/minileadgen.core/obj/Debug/minileadgen.core.App.xaml.g.cs
+/Users/fwilliams/1fabmvpcode/SPFestDC2018/minileadgen/minileadgen.core/obj/Debug/minileadgen.core.minileadgen.corePage.xaml.g.cs
+/Users/fwilliams/1fabmvpcode/SPFestDC2018/minileadgen/minileadgen.core/obj/Debug/minileadgen.core.dll
+/Users/fwilliams/1fabmvpcode/SPFestDC2018/minileadgen/minileadgen.core/obj/Debug/minileadgen.core.pdb

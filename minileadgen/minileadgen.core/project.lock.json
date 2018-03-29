@@ -6055,18 +6055,18 @@
     ".NETStandard,Version=v1.5": []
   },
   "packageFolders": {
-    "/Users/fabianw/.nuget/packages/": {}
+    "/Users/fwilliams/.nuget/packages/": {}
   },
   "project": {
     "restore": {
-      "projectUniqueName": "/Users/fabianw/1mycode/espc2017public/espc2017/minileadgen/minileadgen.core/minileadgen.core.csproj",
+      "projectUniqueName": "/Users/fwilliams/1fabmvpcode/SPFestDC2018/minileadgen/minileadgen.core/minileadgen.core.csproj",
       "projectName": "minileadgen.core",
-      "projectPath": "/Users/fabianw/1mycode/espc2017public/espc2017/minileadgen/minileadgen.core/minileadgen.core.csproj",
-      "projectJsonPath": "/Users/fabianw/1mycode/espc2017public/espc2017/minileadgen/minileadgen.core/project.json",
-      "packagesPath": "/Users/fabianw/.nuget/packages/",
+      "projectPath": "/Users/fwilliams/1fabmvpcode/SPFestDC2018/minileadgen/minileadgen.core/minileadgen.core.csproj",
+      "projectJsonPath": "/Users/fwilliams/1fabmvpcode/SPFestDC2018/minileadgen/minileadgen.core/project.json",
+      "packagesPath": "/Users/fwilliams/.nuget/packages/",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
-        "/Users/fabianw/.config/NuGet/NuGet.Config"
+        "/Users/fwilliams/.config/NuGet/NuGet.Config"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
